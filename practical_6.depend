@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626987486 source:e:\degree documents\year 2 (2021)\first semester\is2107 graphics and visualization\assignment\practical_6\main.c
+	<GL/glut.h>
+	<math.h>
+
